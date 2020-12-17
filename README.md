@@ -1,5 +1,3 @@
-# Project-UAS-SEM-Ganjil-TA-2020-21---Kelompok-7-1SIMA-Website-Travelbook-
-
 Course Name      : Teknik Pemrograman         
 Lecturer Name    : Fredian Simanjuntak, S.Kom.                  
 Project Title    : Website Travelbook         
