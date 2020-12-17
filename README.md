@@ -1,7 +1,7 @@
 # Project-UAS-SEM-Ganjil-TA-2020-21---Kelompok-7-1SIMA-Website-Travelbook-
 
 Course Name      : Teknik Pemrograman         
-Lecturer Name    : Fredian Simanjuntak, S.Kom. 
+Lecturer Name    : Fredian Simanjuntak, S.Kom.                  
 Project Title    : Website Travelbook         
 Year             : Tahun akademik 2020/2021   
 Team name        :  Kelompok 7  - Kelas 1SIMA 
